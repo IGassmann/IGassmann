@@ -1,7 +1,5 @@
-I'm a Product and DevOps Engineer working at startups.
+Product Engineer with 9 years of experience. I started a career in software engineering at 16. I worked at a Swiss college for 4 years, building products from ideation to launch.
 
-I started a career in software engineering 8 years ago in Switzerland. While working there, I’ve built web and mobile applications, and designed network and server infrastructures.
+Later on, I co-founded a US startup that went on to raise $1M. I architected and built a scalable video platform API with paid subscriptions and hired our first employee.
 
-Five years later, I graduated from an entrepreneurship bootcamp and jumped from being an intern at a [US startup](https://lbry.com/) to being a founder of [one](https://www.crunchbase.com/organization/odeon). We raised about 1M dollars and shipped a [consumer product for video creators](https://odeon.tv/).
-
-I enjoy being surrounded by people who are always questioning and curious. Who appreciate products that have been done with a deep concern for quality and attention to detail. Not only at the superficial level, but also behind the scenes.
+For the past 5 years, I’ve been building and shipping products at startups.
